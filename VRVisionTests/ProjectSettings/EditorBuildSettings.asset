@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Snellen.unity
+    guid: de679ce5c8d15c244aa3701a9ddb5858
+  - enabled: 1
+    path: Assets/Scenes/Ishihara.unity
+    guid: ac460a94cf9d5f142b2f7e3070950447
+  - enabled: 1
+    path: Assets/Scenes/Humphrey.unity
+    guid: 6ab6b560934ae43439a907126db024c1
+  - enabled: 1
+    path: Assets/Scenes/NearSimulation.unity
+    guid: aae923cfad232764e8f96ce669145399
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: c401cf62e5fc566448ba3b711e6d7e93, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 50650c681f4491e42b5838131a66285f, type: 2}
